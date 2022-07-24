@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Html, css & React Js**
 
-- 👨‍💻 All of my projects are available at [https://samuelsteven0902.github.io/](https://samuelsteven0902.github.io/)
+- 👨‍💻 All of my projects are available at [https://samuelsteven0902.github.io/portofolio/](https://samuelsteven0902.github.io/portofolio/)
 
 - 📫 How to reach me **samuelstev0902@Gmail.com**
 
